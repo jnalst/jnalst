@@ -30,6 +30,6 @@
 
    
   
-  ![Snake animation](https://github.com/miked0/miked0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jnalst/jnalst/blob/output/github-contribution-grid-snake.svg)
  
 </div>
