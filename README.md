@@ -1,4 +1,4 @@
-## Opa Dev! Sou o Juan 👾
+## Opa Dev! Sou o Jnalst 👾
 
 - 🔭 Hoje estou trabalhando na área de atendimento ao cliente como suporte técnico. 
 - 🌱 Estudando HTML | CSS | JavaScript | React Js | 
