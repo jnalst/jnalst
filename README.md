@@ -1,9 +1,7 @@
 ## Opa Dev! Sou o Jnalst 👾
 
-- 🔭 Hoje estou trabalhando na área de atendimento ao cliente como suporte técnico. 
+- 🔭 Hoje estou trabalhando como Analista de Sistemas. 
 - 🌱 Estudando HTML | CSS | JavaScript | React Js | 
-- 😄 Pronouns: Ele/Dele
-
 
 <div align="center">
   <a href="https://github.com/jnalst">
